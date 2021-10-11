@@ -1,0 +1,90 @@
+[11-Sep-2021 12:38:54 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Function name must be a string in /var/www/html/user/action/register.php:5
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/user/action/register.php on line 5
+[11-Sep-2021 12:39:55 Asia/Tokyo] PHP Notice:  Undefined index: email in /var/www/html/user/action/register.php on line 6
+[11-Sep-2021 12:43:07 Asia/Tokyo] PHP Notice:  Undefined index: email in /var/www/html/user/action/register.php on line 6
+[11-Sep-2021 12:55:03 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 17
+[11-Sep-2021 12:56:40 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 17
+[11-Sep-2021 22:48:21 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 17
+[12-Sep-2021 12:20:26 Asia/Tokyo] PHP Notice:  Undefined index: error in /var/www/html/user/index.php on line 18
+[12-Sep-2021 12:20:26 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/user/index.php on line 18
+[12-Sep-2021 12:24:09 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 52
+[12-Sep-2021 12:24:54 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 52
+[12-Sep-2021 12:25:06 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 52
+[12-Sep-2021 12:31:02 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 52
+[12-Sep-2021 12:31:53 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 52
+[12-Sep-2021 18:53:10 Asia/Tokyo] PHP Parse error:  syntax error, unexpected ')', expecting end of file in /var/www/html/login/action/login.php on line 33
+[12-Sep-2021 18:53:58 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /var/www/html/common/validation.php on line 10
+[12-Sep-2021 18:53:58 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /var/www/html/common/validation.php on line 10
+[12-Sep-2021 18:53:58 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /var/www/html/common/validation.php on line 22
+[12-Sep-2021 18:53:58 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /var/www/html/common/validation.php on line 46
+[12-Sep-2021 18:53:58 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /var/www/html/common/validation.php on line 58
+[12-Sep-2021 18:54:55 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /var/www/html/common/validation.php on line 10
+[12-Sep-2021 18:54:55 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /var/www/html/common/validation.php on line 10
+[12-Sep-2021 18:54:55 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /var/www/html/common/validation.php on line 22
+[12-Sep-2021 18:54:55 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /var/www/html/common/validation.php on line 46
+[12-Sep-2021 18:54:55 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /var/www/html/common/validation.php on line 58
+[12-Sep-2021 23:07:05 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 52
+[14-Sep-2021 14:53:46 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /var/www/html/memo/index.php on line 33
+[14-Sep-2021 14:54:10 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /var/www/html/memo/index.php on line 33
+[14-Sep-2021 14:54:11 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /var/www/html/memo/index.php on line 33
+[14-Sep-2021 14:54:40 Asia/Tokyo] PHP Notice:  Undefined variable: edit_title in /var/www/html/memo/index.php on line 35
+[14-Sep-2021 14:54:40 Asia/Tokyo] PHP Notice:  Undefined variable: edit_content in /var/www/html/memo/index.php on line 35
+[14-Sep-2021 14:54:41 Asia/Tokyo] PHP Notice:  Undefined variable: edit_title in /var/www/html/memo/index.php on line 35
+[14-Sep-2021 14:54:41 Asia/Tokyo] PHP Notice:  Undefined variable: edit_content in /var/www/html/memo/index.php on line 35
+[14-Sep-2021 15:00:46 Asia/Tokyo] PHP Notice:  Undefined index: select_memo in /var/www/html/memo/index.php on line 26
+[14-Sep-2021 15:00:46 Asia/Tokyo] PHP Notice:  Undefined variable: edit_title in /var/www/html/memo/index.php on line 36
+[14-Sep-2021 15:00:46 Asia/Tokyo] PHP Notice:  Undefined variable: edit_content in /var/www/html/memo/index.php on line 36
+[14-Sep-2021 15:00:46 Asia/Tokyo] PHP Notice:  Undefined index: select_memo in /var/www/html/memo/index.php on line 26
+[14-Sep-2021 15:00:46 Asia/Tokyo] PHP Notice:  Undefined variable: edit_title in /var/www/html/memo/index.php on line 36
+[14-Sep-2021 15:00:46 Asia/Tokyo] PHP Notice:  Undefined variable: edit_content in /var/www/html/memo/index.php on line 36
+[14-Sep-2021 15:06:17 Asia/Tokyo] PHP Notice:  Array to string conversion in /var/www/html/memo/action/add.php on line 28
+[14-Sep-2021 15:53:04 Asia/Tokyo] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /var/www/html/memo/action/add.php on line 21
+[14-Sep-2021 15:53:20 Asia/Tokyo] PHP Parse error:  syntax error, unexpected ')' in /var/www/html/memo/action/add.php on line 21
+[14-Sep-2021 15:59:38 Asia/Tokyo] PHP Notice:  Undefined variable: stmt in /var/www/html/memo/action/add.php on line 21
+[14-Sep-2021 15:59:38 Asia/Tokyo] PHP Notice:  Trying to get property 'error' of non-object in /var/www/html/memo/action/add.php on line 21
+[14-Sep-2021 15:59:48 Asia/Tokyo] PHP Notice:  Undefined property: PDOStatement::$error in /var/www/html/memo/action/add.php on line 21
+[14-Sep-2021 16:01:47 Asia/Tokyo] PHP Notice:  Undefined property: PDOStatement::$error in /var/www/html/memo/action/add.php on line 21
+[14-Sep-2021 16:10:59 Asia/Tokyo] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING) in /var/www/html/memo/action/add.php on line 22
+[14-Sep-2021 16:11:56 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '')'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /var/www/html/memo/action/add.php on line 16
+[14-Sep-2021 16:18:46 Asia/Tokyo] PHP Notice:  Undefined property: PDOStatement::$title in /var/www/html/memo/action/add.php on line 21
+[14-Sep-2021 16:18:53 Asia/Tokyo] PHP Notice:  Undefined property: PDOStatement::$新規メモ in /var/www/html/memo/action/add.php on line 21
+[14-Sep-2021 16:18:57 Asia/Tokyo] PHP Notice:  Undefined property: PDOStatement::$新規メモ in /var/www/html/memo/action/add.php on line 21
+[14-Sep-2021 18:16:09 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 18
+[14-Sep-2021 18:16:09 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 19
+[14-Sep-2021 18:16:23 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 18
+[14-Sep-2021 18:16:23 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 19
+[14-Sep-2021 18:20:37 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 18
+[14-Sep-2021 18:20:37 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 19
+[14-Sep-2021 18:21:03 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 20
+[14-Sep-2021 18:21:03 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 21
+[14-Sep-2021 18:25:08 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 19
+[14-Sep-2021 18:25:08 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 20
+[14-Sep-2021 18:26:50 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 19
+[14-Sep-2021 18:26:50 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 20
+[14-Sep-2021 18:31:40 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 19
+[14-Sep-2021 18:31:40 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 20
+[14-Sep-2021 18:31:49 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 19
+[14-Sep-2021 18:31:49 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 20
+[14-Sep-2021 18:32:31 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 19
+[14-Sep-2021 18:32:31 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 20
+[14-Sep-2021 18:32:59 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 19
+[14-Sep-2021 18:32:59 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 20
+[14-Sep-2021 18:33:19 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 19
+[14-Sep-2021 18:33:19 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 20
+[14-Sep-2021 18:33:32 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 19
+[14-Sep-2021 18:33:32 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 20
+[14-Sep-2021 18:33:49 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 19
+[14-Sep-2021 18:33:49 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 20
+[15-Sep-2021 10:57:12 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 52
+[15-Sep-2021 10:59:08 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 52
+[15-Sep-2021 11:02:57 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 50
+[15-Sep-2021 11:03:49 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 50
+[15-Sep-2021 11:05:18 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 50
+[15-Sep-2021 11:29:25 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 19
+[15-Sep-2021 11:29:25 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 20
+[15-Sep-2021 11:30:12 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 19
+[15-Sep-2021 11:30:12 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 20
+[15-Sep-2021 11:30:24 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 19
+[15-Sep-2021 11:30:24 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 20
